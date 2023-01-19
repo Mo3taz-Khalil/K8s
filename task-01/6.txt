@@ -1,0 +1,4 @@
+ What does READY column in the output of get pods 
+command indicate?
+
+The READY column indicates the readiness of containers in each pod
